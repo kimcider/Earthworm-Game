@@ -19,3 +19,5 @@
   r - 새로운 게임 시작  
   n - 방의 경계를 그려준다.  
   q - 게임 종료  
+  
+![image](https://user-images.githubusercontent.com/105146508/210338973-8223dbfd-f1d4-41d0-a20d-189875f07d0d.png)
