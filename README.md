@@ -20,4 +20,4 @@
   n - 방의 경계를 그려준다.  
   q - 게임 종료  
   
-![image](https://user-images.githubusercontent.com/105146508/210338973-8223dbfd-f1d4-41d0-a20d-189875f07d0d.png)
+	![image](https://user-images.githubusercontent.com/105146508/210339079-ac97b5e7-f99a-43f2-bb44-74193207550b.png)
